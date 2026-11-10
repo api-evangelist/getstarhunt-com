@@ -1,4 +1,4 @@
-# getstarhunt-com
+# StarHunt
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-getstarhunt-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://getstarhunt.com/
+StarHunt provides a GitHub sourcing tool that helps technical recruiters find engineers by analyzing their public contributions, repository activity, and languages used over the past twelve months. Users describe a role in plain English or upload a job description, and the service returns a ranked shortlist with public contact details and exportable CSV files. The platform offers a free plan with three searches and unlimited exports, and a paid Pro plan at $49 per month for unlimited searches.
+
+**Areas:** GitHub sourcing · Technical recruiting · Developer hiring · Recruitment tools · Talent sourcing
+
+## StarHunt on APIs.io
+
+Everything profiled for StarHunt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/getstarhunt-com/](https://apis.io/providers/getstarhunt-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (27)
+
+- [StarHunt Account API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-account-api/) — The Account API from StarHunt — 4 operation(s) for account.
+- [StarHunt Admin API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-admin-api/) — The Admin API from StarHunt — 2 operation(s) for admin.
+- [StarHunt Ashby API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-ashby-api/) — The Ashby API from StarHunt — 3 operation(s) for ashby.
+- [StarHunt Auth API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-auth-api/) — The Auth API from StarHunt — 13 operation(s) for auth.
+- [StarHunt Billing API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-billing-api/) — The Billing API from StarHunt — 5 operation(s) for billing.
+- [StarHunt Builders API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-builders-api/) — The Builders API from StarHunt — 2 operation(s) for builders.
+- [StarHunt Categories API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-categories-api/) — The Categories API from StarHunt — 1 operation(s) for categories.
+- [StarHunt Custom Repos API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-custom-repos-api/) — The Custom Repos API from StarHunt — 2 operation(s) for custom repos.
+- [StarHunt Exports API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-exports-api/) — The Exports API from StarHunt — 4 operation(s) for exports.
+- [StarHunt Extract Filters API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-extract-filters-api/) — The Extract Filters API from StarHunt — 1 operation(s) for extract filters.
+- [StarHunt Extract Pdf API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-extract-pdf-api/) — The Extract Pdf API from StarHunt — 1 operation(s) for extract pdf.
+- [StarHunt Health API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-health-api/) — The Health API from StarHunt — 1 operation(s) for health.
+- [StarHunt MCP API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-mcp-api/) — The Mcp API from StarHunt — 2 operation(s) for mcp.
+- [StarHunt OAuth API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-oauth-api/) — The Oauth API from StarHunt — 4 operation(s) for oauth.
+- [StarHunt Ping API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-ping-api/) — The Ping API from StarHunt — 1 operation(s) for ping.
+- [StarHunt Profiles API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-profiles-api/) — The Profiles API from StarHunt — 1 operation(s) for profiles.
+- [StarHunt Referral API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-referral-api/) — The Referral API from StarHunt — 1 operation(s) for referral.
+- [StarHunt Remove API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-remove-api/) — The Remove API from StarHunt — 3 operation(s) for remove.
+- [StarHunt Repo Requests API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-repo-requests-api/) — The Repo Requests API from StarHunt — 1 operation(s) for repo requests.
+- [StarHunt Saved Searches API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-saved-searches-api/) — The Saved Searches API from StarHunt — 2 operation(s) for saved searches.
+- [StarHunt Search API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-search-api/) — The Search API from StarHunt — 3 operation(s) for search.
+- [StarHunt Shared Lists API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-shared-lists-api/) — The Shared Lists API from StarHunt — 2 operation(s) for shared lists.
+- [StarHunt Tech Request API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-tech-request-api/) — The Tech Request API from StarHunt — 1 operation(s) for tech request.
+- [StarHunt Technologies API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-technologies-api/) — The Technologies API from StarHunt — 1 operation(s) for technologies.
+- [StarHunt Techs API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-techs-api/) — The Techs API from StarHunt — 1 operation(s) for techs.
+- [StarHunt Usage API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-usage-api/) — The Usage API from StarHunt — 1 operation(s) for usage.
+- [StarHunt .well Known API](https://apis.io/apis/getstarhunt-com/getstarhunt-com-well-known-api/) — The .well Known API from StarHunt — 4 operation(s) for .well known.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [StarHunt Agentic Access](https://apis.io/agentic-access/getstarhunt-com/getstarhunt-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Getstarhunt Com Context](https://apis.io/jsonld/getstarhunt-com/getstarhunt-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [StarHunt API Rules](https://apis.io/rules/getstarhunt-com/getstarhunt-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [StarHunt Domain Security](https://apis.io/security/getstarhunt-com/getstarhunt-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [StarHunt Plans Pricing](https://apis.io/plans/getstarhunt-com/getstarhunt-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://getstarhunt.com/)
+- [Pricing](https://www.getstarhunt.com/pricing.html)
+- [Blog](https://www.getstarhunt.com/blog/)
+- [Terms of service](https://www.getstarhunt.com/terms.html)
+- [Privacy policy](https://www.getstarhunt.com/privacy.html)
+
+## API Evangelist rating
+
+**Kin Score 38.0** — thin · rubric 0.27.0 · scored 2026-11-10
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 39.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 60.0 |
+
+**Agent readiness 47.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/getstarhunt-com/](https://apis.io/providers/getstarhunt-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for StarHunt: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/getstarhunt-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
